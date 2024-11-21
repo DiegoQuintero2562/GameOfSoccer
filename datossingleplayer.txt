@@ -1,0 +1,2 @@
+1:0,1,13;modo un jugador.
+iasjfiad:0,0,0;modo un jugador.
